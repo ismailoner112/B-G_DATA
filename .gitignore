@@ -1,0 +1,29 @@
+# Python derleme dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Model ve veri dosyaları
+*.pkl
+*.csv
+*.zip
+*.apk
+*.log
+*.tmp
+*.bak
+
+# Kişisel ve büyük dosyalar
+*.docx
+analysis_results/
+ml_results/
+normal_apks_1mobile/
+malware_apks_1mobile/
+bin/
+lib/
+
+# IDE dosyaları
+.idea/
+.vscode/ 
